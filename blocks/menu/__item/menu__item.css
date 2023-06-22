@@ -1,0 +1,16 @@
+.menu__item {
+    padding: 0;
+    margin: 0;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A1A2A3;
+    text-decoration-line: none;
+}
+
+.menu__item:hover {
+    cursor: url("../../../images/cursor_circle.png"), auto;
+      }
