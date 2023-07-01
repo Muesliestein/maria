@@ -3,6 +3,7 @@
     box-sizing: border-box;
     justify-content: center;
     display: flex;
+    flex-direction: column;
     font-family: "Inter", "Helvetica", "Arial", sans-serif;
     font-style: normal;
     -moz-osx-font-smoothing: grayscale;

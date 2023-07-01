@@ -9,8 +9,10 @@
     text-align: left;
     color: #A1A2A3;
     text-decoration-line: none;
+    align-self: flex-start;
 }
 
 .menu__item:hover {
     cursor: url("../../../images/cursor_circle.png"), auto;
-      }
+    opacity: 0.6;
+}
