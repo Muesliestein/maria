@@ -4,4 +4,5 @@
     max-width: 258px;
     display: flex;
     flex-direction: column;
+    gap: 730px;
 }
