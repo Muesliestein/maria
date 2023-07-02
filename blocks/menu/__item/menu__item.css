@@ -6,13 +6,18 @@
     font-weight: 400;
     line-height: 19px;
     letter-spacing: 0em;
-    text-align: left;
+    text-align: center;
     color: #A1A2A3;
     text-decoration-line: none;
     align-self: flex-start;
+    list-style: none;
+
 }
 
 .menu__item:hover {
-    cursor: url("../../../images/cursor_circle.png"), auto;
-    opacity: 0.6;
+    background-image: url("../../../images/underline.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    opacity: 0.8;
 }
